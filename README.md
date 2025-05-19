@@ -82,6 +82,7 @@ Integration with escrow for secure transfers
 
 3. **PropertyRegistry** (Central Coordinator)
 
+Contract address: 0x968edcdf4d24d78ab6c5557c08ea1c10df35608a
 The central hub that coordinates interactions between all property-related contracts. It manages the relationship between SBTs, ownership NFTs, and verification status.
 Key Features:
 
@@ -91,6 +92,8 @@ Ownership transfer coordination
 Metadata synchronization across contracts
 
 4. **RentalEscrow** (Payment Management)
+
+Contract Address: 0x9491f611154474f748b825f0176c016b17ff7ba6
 
 A sophisticated escrow system that manages rental agreements, payments, and disputes with automated billing cycles and security deposit handling.
 Key Features:
